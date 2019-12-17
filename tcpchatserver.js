@@ -25,5 +25,5 @@ var server=net.createServer(function(socket){
     });
 });
 server.listen(8080);{
-    console.log('server created sucessesfully');
+    console.log('server created sucesesfully');
 }
